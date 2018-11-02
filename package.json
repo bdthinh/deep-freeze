@@ -1,0 +1,24 @@
+{
+  "name": "deep-freeze",
+  "version": "1.0.0",
+  "description": "Create a deep freezed object and not mutate input object",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest index.spec.js"
+  },
+  "author": "Thinh D. Bui",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/bdthinh/deep-freeze.git"
+  },
+  "keywords": [
+    "deep",
+    "freeze",
+    "immutable",
+    "object"
+  ]
+}
