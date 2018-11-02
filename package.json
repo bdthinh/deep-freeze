@@ -1,7 +1,7 @@
 {
   "name": "deep-freeze",
   "version": "1.0.0",
-  "description": "Create a deep freezed object and not mutate input object",
+  "description": "Create a deep frozen object and not mutate input object",
   "main": "index.js",
   "scripts": {
     "test": "jest index.spec.js"
