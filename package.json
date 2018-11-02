@@ -1,5 +1,5 @@
 {
-  "name": "deep-freeze",
+  "name": "immutable-deep-freeze",
   "version": "1.0.0",
   "description": "Create a deep frozen object and not mutate input object",
   "main": "index.js",
